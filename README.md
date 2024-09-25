@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=180&text=김%20성%20철%20Full-stack&animation=blink&fontColor=000000&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=180&text=김%20성%20철%&animation=blink&fontColor=000000&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요! </h2>  
